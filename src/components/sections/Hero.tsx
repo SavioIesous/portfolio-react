@@ -85,7 +85,7 @@ const Hero = () => {
                 {/* Image container */}
                 <div className="relative rounded-2xl overflow-hidden m-[2px] h-[calc(100%-2)] ">
                   <img
-                    src="../public/images/projects/programming.jpeg"
+                    src="../public/images/projects/programming.jpg"
                     alt="Me programming"
                     className="w-full h-full object-cover"
                   />
